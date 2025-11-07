@@ -94,7 +94,7 @@
         android:id="@+id/tvRateInfo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="1 USD = 0.94 EUR"
+        android:text="1 USD = 0.88 EUR"
         android:textAlignment="center"
         android:textSize="14sp"
         android:textColor="#444"
